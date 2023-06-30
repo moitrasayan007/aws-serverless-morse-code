@@ -1,0 +1,16 @@
+{
+    "name": "morse-code-converter",
+    "version": "1.0.0",
+    "description": "A simple application to convert plain text to Morse code",
+    "main": "index.js",
+    "scripts": {
+      "start": "lite-server"
+    },
+    "dependencies": {
+      "axios": "^0.24.0"
+    },
+    "devDependencies": {
+      "lite-server": "*"
+    }
+  }
+  

@@ -1,0 +1,28 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    color: #333;
+}
+
+h1 {
+    color: #5c47ff;
+}
+
+#inputText {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+#result {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 5px;
+    color: #333;
+    font-size: 30px; /* Increase the font size here */
+    white-space: pre-wrap;
+}
+
